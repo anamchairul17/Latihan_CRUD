@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593354464748",
+    "firebase_url": "https://latihancrud-f86a9.firebaseio.com",
+    "project_id": "latihancrud-f86a9",
+    "storage_bucket": "latihancrud-f86a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593354464748:android:7d292106c814851862f4c9",
+        "android_client_info": {
+          "package_name": "com.itdev.latihancrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593354464748-vco3sqkb4h4j1e1lh9qi5kgmv90bu72r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3lXfO70ESm_PhJnq0nmc__K9XripCm78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593354464748-vco3sqkb4h4j1e1lh9qi5kgmv90bu72r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
